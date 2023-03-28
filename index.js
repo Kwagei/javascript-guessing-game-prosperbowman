@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             userChoice.style.backgroundColor = "black"; userChoice.style.opacity = "1";
 
-            head_live.innerText = "Congrats You won!";
+            head_live.innerText = "Congrats!";
             head_live.style.backgroundColor = "white"; head_live.style.border = "2px solid white"; head_live.style.color = "black";
         }
 
